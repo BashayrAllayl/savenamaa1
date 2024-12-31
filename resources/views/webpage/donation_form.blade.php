@@ -55,19 +55,7 @@
             <select id="city" name="city" required>
               <option value="" disabled selected>اختر المدينة</option>
               <option value="المخواه">المخواه</option>
-              <option value="الباحة">الباحة</option>
-              <option value="بيشة">بيشة</option>
-              <option value="خميس مشيط">خميس مشيط</option>
-              <option value="الرياض">الرياض</option>
-              <option value="جدة">جدة</option>
-              <option value="الدمام">الدمام</option>
-              <option value="مكة">مكة</option>
-              <option value="المدينة المنورة">المدينة المنورة</option>
-              <option value="الخبر">الخبر</option>
-              <option value="أبها">أبها</option>
-              <option value="تبوك">تبوك</option>
-              <option value="الطائف">الطائف</option>
-              <option value="جيزان">جيزان</option>
+              <option value="القلوة">القلوة</option>
             </select>
           </div>
         </div>
