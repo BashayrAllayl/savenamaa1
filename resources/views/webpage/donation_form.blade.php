@@ -56,6 +56,7 @@
               <option value="" disabled selected>اختر المدينة</option>
               <option value="المخواه">المخواه</option>
               <option value="القلوة">القلوة</option>
+              <option value="ناوان">ناوان</option>
             </select>
           </div>
         </div>
